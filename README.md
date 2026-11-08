@@ -1,4 +1,4 @@
-# HSH SovereignSoul Admin
+# HSH NONGCHE API [BY-BAITONG]
 
 Small standalone admin app. It does not modify the supplied game API. Express serves the page and uses the Supabase service role key on the server only; never put that key in HTML, launcher code, or a public repository.
 
